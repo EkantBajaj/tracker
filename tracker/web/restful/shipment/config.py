@@ -1,0 +1,1 @@
+tracking_api_url = 'https://wowship.wowexpress.in/index.php/api/detailed_status/trackAwb'

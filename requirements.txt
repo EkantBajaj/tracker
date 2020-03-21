@@ -1,0 +1,7 @@
+flask
+sqlalchemy
+docopt
+sqlalchemy_mptt
+mysqlclient
+flask-restful
+requests
